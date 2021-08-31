@@ -1,5 +1,5 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `⚜*${BotName}*⚜
+	return `☆*${BotName}*☆
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
@@ -8,8 +8,8 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
-📅*${tampilTanggal}* ⚡️
-⏰*${tampilWaktu}* ⚡️
+📅*${tampilTanggal}* •
+⏰*${tampilWaktu}* •
 (Waktu Server)
 
 🗒KUMPULAN COMMAND ${BotName}:
@@ -124,11 +124,11 @@ FOLLOW INSTAGRAM SAYA
 ${instagram}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• Youtube : Alfa Omega Church
+• WA : 087741107838
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *Alfa Omega Church*
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
 `
