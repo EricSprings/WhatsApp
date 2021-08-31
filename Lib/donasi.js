@@ -1,5 +1,5 @@
 exports.donasi = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `🤜🤜{ *MENU DONASI ${BotName}* }🤛🤛
+	return `☆{ *MENU DONASI ${BotName}* ☆
   
   
 TERIMA KASIH
@@ -14,12 +14,12 @@ TELAH MEMBUKA MENU DONASI
 
 KALIAN BISA DONASI MENGGUNAKAN
    
-🛡 *PULSA*: 081271699856
-🛡 *OVO*: 081271699856
-🛡 *DANA* : 081271699866
-🛡 *GOPAY* : 081271699856
+🛡 *PULSA*: 087741107838
+🛡 *OVO*: 087741107838
+🛡 *DANA* : 087741107838
+🛡 *GOPAY* : 087741107838
 
-📺*IKLAN* *YOUTUBE REUZ*
+
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
