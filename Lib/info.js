@@ -1,5 +1,5 @@
 exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `⚜ ${BotName} ⚜
+	return `☆ ${BotName} ☆
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
@@ -11,7 +11,7 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 
 INFO BOT! :
 🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
+🔱 *GITHUB*: https://github.com/EricSprings/WhatsApp
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
@@ -25,10 +25,7 @@ BOT INI MENGGUNAKAN SOURCE CODE YANG SAYA DAPATKAN DAN SAYA MODIFIKASI DENGAN PE
 BOT INI DIBUAT MENGGUNAKAN NODE.JS
 
 THANKS TO: 
--ALLAH SWT
--MUHAMMAD SAW
--AYAH & IBU
--ABDUL MUTTAQIN(FDCIABDUL)
+R E U Z
 
 
 bot aktif selama : ${kapanbotaktif}
